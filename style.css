@@ -36,7 +36,7 @@ main {
     border-radius: 4px;
     background-color: goldenrod;
     color: cadetblue;
-    cursor: progress;
+    cursor: pointer;
 }
 
 .positioning-type {
@@ -98,4 +98,5 @@ footer p {
     font-size: 14px;
     color: cadetblue;
     width: 100%;
+
 }
